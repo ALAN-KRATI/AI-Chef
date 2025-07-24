@@ -1,12 +1,11 @@
-# React + Vite
+# AI-Chef: Leftover Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-Chef is a simple app that helps you use up ingredients you already have. Just tell it what's in your fridge, and it will use AI to create a new, custom recipe for you. It's a great way to get inspired and reduce food waste!
 
-Currently, two official plugins are available:
+### ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Custom Recipes:** Get a unique recipe every time based on your ingredients.
 
-## Expanding the ESLint configuration
+* **Simple to Use:** The app has a clean and straightforward design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Works Anywhere:** Use it on your phone, tablet, or computer.
